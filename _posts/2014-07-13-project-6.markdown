@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2022-12-01
 img: submarine.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Markdown은 텍스트 기반의 마크업 언어입니다. html로 변환 가능합니다. 간결하다는 장점을 가지고 있습니다.
 ---
+
+## MarkDown 특징  
+- 텍스트 기반의 마크업 언어  
+- html로 변환 가능    
+- 간결하다  

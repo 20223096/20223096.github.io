@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2022-11-30
 img: safe.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2022
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Jekyll은 사용법이 비교적 간단합니다. db가 필요없습니다. 백업과 복원이 쉽습니다.
 ---
+
+
+### Jekyll 특징   
+- 사용법이 비교적 간단  
+- db가 필요없음 
+- 백업과 복원이 쉬움   
