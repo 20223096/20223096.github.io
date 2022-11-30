@@ -1,0 +1,28 @@
+<strong>creating web pages</strong>
+: 진하게 표시
+<U>web</u> : 밑줄
+<h1>W3C</h1> : h1 ?숫자가 올라갈수록 그림이 작아짐
+<h2>This is heading1
+h1~h6까지 있는데 제목을 나타냄
+
+줄바꿈 : 
+<br>
+단락 표현:
+<p>        </p><p style="margin-top:45px;"> 45만큼 공백이 떨어짐
+
+<img src="이미지링크" width = "450"> width를 사용해서 이미지 크기 조절
+
+<ol
+<l1>HTML</li>
+<li> CSS</li>
+<li> JavaScript</li> 
+</ol>
+    :목차
+
+
+<tilte>WEB1 - html</title> (웹페이지 이름)
+
+한국어를 한국어대로 저장 못함
+<meta charset="utf-8">
+<head> 
+<body> : 본문
